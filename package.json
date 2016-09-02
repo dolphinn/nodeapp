@@ -1,0 +1,25 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mysystem.js",
+  "dependencies": {
+    "zipcode": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolphinn/nodeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolphinn/nodeapp/issues"
+  },
+  "homepage": "https://github.com/dolphinn/nodeapp#readme"
+}
